@@ -1,4 +1,4 @@
 # Prince-demo
 This is  my first git repository 
 <br>
-Author - Prince Bhatiyani
+Author - Prince (Apna college)
